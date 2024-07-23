@@ -10,4 +10,4 @@ The CIFAR-10 dataset is a widely-used dataset for machine learning and computer 
 
 ----
 ## Medium Article
-Read the blog on - https://medium.com/@ravjot03/comparing-ann-and-cnn-on-cifar-10-a-comprehensive-analysis-74d732e3b955
+Read the blog on - [Link](https://medium.com/@ravjot03/comparing-ann-and-cnn-on-cifar-10-a-comprehensive-analysis-74d732e3b955)
